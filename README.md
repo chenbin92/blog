@@ -7,7 +7,7 @@
 ### 前端
 
   - **Vue**
-    - [你可能不需要Vuex](https://github.com/chenbin92/blog/issues/new)（2017-07-14）
+    - [你可能不需要 Vuex](https://github.com/chenbin92/blog/issues/1)（2017-07-14）
 
   - **React**
     - [[React项目总结] 基于 webpack 搭建前端工程基础篇(一)](https://github.com/chenbin92/react-redux-webpack-starter/issues/1)（2016-07-13）
