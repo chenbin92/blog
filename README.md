@@ -19,7 +19,7 @@
 
 ### 随笔记录
 
-  - [Dynamic imports with webpack](https://github.com/chenbin92/blog/issues/2)（2015-07-19）
+  - [Dynamic imports with webpack](https://github.com/chenbin92/blog/issues/2)（2017-07-19）
 
 
 ### 一些个人分享
