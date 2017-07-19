@@ -17,6 +17,10 @@
     - [使用 gulp 搭建前端环境之CommonJs & ES6 模块化(二)](https://github.com/chenbin92/ES6-with-gulp-build/issues/4)（2015-12-14）
     - [使用 gulp 搭建前端环境之 ionic 项目实践总结(三)](https://github.com/chenbin92/ES6-with-gulp-build/issues/6)（2016-03-06）
 
+### 随笔记录
+
+  - [Dynamic imports with webpack](https://github.com/chenbin92/blog/issues/2)
+
 
 ### 一些个人分享
   - [浅谈前端移动开发.pdf](http://osysqvegm.bkt.clouddn.com/%E6%B5%85%E8%B0%88%E5%89%8D%E7%AB%AF%E7%A7%BB%E5%8A%A8%E5%BC%80%E5%8F%91.pdf)（2015-11-14）
