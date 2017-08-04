@@ -12,8 +12,8 @@
   - **React**
     - [[React项目总结] 基于 webpack 搭建前端工程基础篇(一)](https://github.com/chenbin92/react-redux-webpack-starter/issues/1)（2016-07-13）
     
-  - **koa**
-    - [Koa2-webpack-boilerplate](https://github.com/chenbin92/koa2-webpack-boilerplate)（2017-08-04）
+  - **Koa**
+    - [koa2-webpack-boilerplate](https://github.com/chenbin92/koa2-webpack-boilerplate)（2017-08-04）
 
   - **Gulp**
     - [使用 gulp 搭建前端环境(一)](https://github.com/chenbin92/ES6-with-gulp-build/issues/3)（2015-12-14）
