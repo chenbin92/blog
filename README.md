@@ -3,7 +3,9 @@
 > 记录一些随笔文章和个人分享，欢迎一起探讨
 
 ## 2019
-写点什么~
+**飞冰（ICE）相关**
+   - [淘宝前端 - 飞冰月报 - 201908](https://github.com/chenbin92/blog/issues/5)
+   - [飞冰早报](https://github.com/chenbin92/zaobao)
 
 ## 2018
 
